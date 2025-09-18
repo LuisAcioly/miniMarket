@@ -1,0 +1,119 @@
+{
+    "data": {
+        "leads": [
+            {
+                "id": 1,
+                "name": "James Anderson",
+                "company": "BlueWave Tech",
+                "email": "james.anderson@example.com",
+                "source": "LinkedIn",
+                "score": 75,
+                "status": "active"
+            },
+            {
+                "id": 2,
+                "name": "Emily Johnson",
+                "company": "NextGen Solutions",
+                "email": "emily.johnson@example.com",
+                "source": "Website",
+                "score": 88,
+                "status": "inactive"
+            },
+            {
+                "id": 3,
+                "name": "Michael Smith",
+                "company": "Innovatech",
+                "email": "michael.smith@example.com",
+                "source": "Referral",
+                "score": 92,
+                "status": "active"
+            },
+            {
+                "id": 4,
+                "name": "Sarah Williams",
+                "company": "Future Labs",
+                "email": "sarah.williams@example.com",
+                "source": "Event",
+                "score": 81,
+                "status": "inactive"
+            },
+            {
+                "id": 5,
+                "name": "David Brown",
+                "company": "AlphaSoft",
+                "email": "david.brown@example.com",
+                "source": "LinkedIn",
+                "score": 79,
+                "status": "active"
+            },
+            {
+                "id": 6,
+                "name": "Olivia Davis",
+                "company": "SkyTech",
+                "email": "olivia.davis@example.com",
+                "source": "Website",
+                "score": 85,
+                "status": "inactive"
+            },
+            {
+                "id": 7,
+                "name": "Daniel Wilson",
+                "company": "GreenByte",
+                "email": "daniel.wilson@example.com",
+                "source": "Referral",
+                "score": 90,
+                "status": "active"
+            },
+            {
+                "id": 8,
+                "name": "Jessica Taylor",
+                "company": "TechNova",
+                "email": "jessica.taylor@example.com",
+                "source": "Event",
+                "score": 82,
+                "status": "active"
+            },
+            {
+                "id": 9,
+                "name": "William Martinez",
+                "company": "CloudNet",
+                "email": "william.martinez@example.com",
+                "source": "LinkedIn",
+                "score": 87,
+                "status": "active"
+            },
+            {
+                "id": 10,
+                "name": "Sophia Thompson",
+                "company": "DataWave",
+                "email": "sophia.thompson@example.com",
+                "source": "Website",
+                "score": 76,
+                "status": "inactive"
+            }
+        ],
+        "opportunities": [
+            {
+                "id": 101,
+                "name": "Upgrade Project",
+                "stage": "Negotiation",
+                "amount": 15000,
+                "accountName": "BlueWave Tech"
+            },
+            {
+                "id": 102,
+                "name": "New Implementation",
+                "stage": "Proposal",
+                "amount": 30000,
+                "accountName": "NextGen Solutions"
+            },
+            {
+                "id": 103,
+                "name": "Renewal Contract",
+                "stage": "Closed Won",
+                "amount": null,
+                "accountName": "Innovatech"
+            }
+        ]
+    }
+}
